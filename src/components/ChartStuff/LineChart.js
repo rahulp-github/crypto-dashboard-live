@@ -2,7 +2,8 @@ import React from 'react'
 import 'chart.js/auto';
 import { useEffect,useState } from 'react';
 import { Line } from "react-chartjs-2";
-import { getDataFromApi,populateDataLine } from './ChartFunctions';
+import { getDataFromApi ,populateDataLine } from './ChartFunctions';
+
 /*------------------------------------------------------------------------------------------------
                                         End OF Imports                                          
 ------------------------------------------------------------------------------------------------*/
